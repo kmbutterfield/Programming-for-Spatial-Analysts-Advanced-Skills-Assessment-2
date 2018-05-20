@@ -23,7 +23,7 @@ This script is simple yet useful, providing you an idea of where Tweeters are fr
 
 Using Folium and Pandas, a HTML file is created containing a map of the geolocations of Tweets.
 
-<img src="https://github.com/kmbutterfield/Programming-for-Spatial-Analysts-Advanced-Skills-Assessment-2/blob/master/0.%20Images/TweetMapOutputZoom.png">
+<img src="https://github.com/kmbutterfield/Programming-for-Spatial-Analysts-Advanced-Skills-Assessment-2/blob/master/0.%20Images/TeetMapOutput.png">
 
 ## TweetPlatformPieChart.py
 <b>Requires Pandas, CSV, and Matplotlib </b>
