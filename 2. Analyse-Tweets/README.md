@@ -5,7 +5,7 @@ Requires Pandas and Vincent
 
 Using Vincent, a time-series area chart is created based on the CSV Tweet data's "created_at" column. As shown below, the output is not very visually effective due to the constant abundance of tweets.
 
-<img src="https://github.com/kmbutterfield/Programming-for-Spatial-Analysts-Advanced-Skills-Assessment-2/blob/master/0.%20Images/TimeSeriesOutput.png" alt="Alt text" title="Twitter Volume per Minute vs Time" data-canonical-src="https://github.com/kmbutterfield/Programming-for-Spatial-Analysts-Advanced-Skills-Assessment-2/blob/master/0.%20Images/TimeSeriesOutput.png" style="max-width:50%;"></a>
+<img src="https://github.com/kmbutterfield/Programming-for-Spatial-Analysts-Advanced-Skills-Assessment-2/blob/master/0.%20Images/TimeSeriesOutput.png" style="max-width:50%;"></a>
 
 #### CommonTimeZones.py
 Requires Pandas 
