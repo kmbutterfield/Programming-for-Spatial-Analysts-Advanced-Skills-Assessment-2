@@ -1,11 +1,11 @@
-# Data Processing and Python (with ArcGIS)
+## Python Files
 
-The first part of the practicals in the Advancing Programming module covered data processing and Python, specifically with ArcGIS. The following areas were covered: Scripts, Addins, GUI/Display, SQLite, and XML.
+#### TweetStream_RoyalWedding.py
+Requires Tweepy and PyMongo
 
-For further information about each area, please read the README provided in each subfolder.
+Script to create a stream listener which scrapes live Tweets on the Royal wedding, storing the data into a MONGODB collection. If the collection does not exist, it will be created. For an easy method of viewing the collection, I recommend downloading MongoDB Compass to check your data is being saved.
 
-Summary of each folder/item:
+#### MongoDB_to_CSV.py
+Requires PyMongo and CSV
 
-* ArcPy-Addin-GUI: contains an Add-In script used to open the Models.tbx and run the script created during the Arcpy-Scripts practical. It also contains a TraffordScript.py file which produces a new layer file containing information about buildings at risk of being burgled.
-* Databases-SQLite: contains two files; one which creates a database using information from the "GUI-Display" new layer output, and a database that reads the newly created database.
-* XML: contains a script which validates the schema of an XML file, then edits the file to transform it into HTML.
+Script to create and write a CSV file from the MongoDB. Ensure your code is in Python 3, otherwise syntax will be altered for creating the CSV columns. Also ensure that the encoding is in utf-8 for data to be understood and avoidance of misunderstanding characters or emojis.
