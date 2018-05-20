@@ -1,8 +1,17 @@
-# Programming-for-Spatial-Analysts-Advanced-Skills-Assessment-2
-This repository contains assessment work for the module GEOG5790M. The purpose of this module was to learn advanced skills in using Python for data processing and analysis. The repository is split into two key themes: data processing and data analysis.
+## Programming-for-Spatial-Analysts-Advanced-Skills-Assessment-2
+This repository contains assessment work for the module GEOG5790M. The purpose of this module was to create an independent project using a coding language on any topic of choice. Therefore, I decided to learn how to stream live-Tweets and the visualise the output to analyse them using, using Python. The Tweets scraped are on the topic of Prince Harry and Megan Markle's Royal wedding which took place Saturday the 19th of May 2018. 
 
-Folder 1. Data-Processing contains three folders which contain completed practical work output. The first folder focuses on using Arcpy Scripts, Arc Add-ins, and GUI's. The second folder focuses on SQLite databases and Python. The third folders focuses on XML and a tutorial.
+### Libraries Required:
+* Tweepy for streaming via Twitter's API
+* PyMongo to save the Tweets, and convert to CSV
+* Vincent to create a time series graph of the Tweets during the stream
+* Pandas to visualise the data
+* Folium to create an aesthically pleasing map of tweets
+* NLTK for language processing of Tweet text
 
-Folder 2. Data-Analysis contains two folders. The first folder "Pandas-Bokeh" provides practical output based on using the Pandas and Bokeh modules within Python. The last folder "NLTK" demonstrates the use of Natual Language Processing, and then the application of Bokeh.
+### Folder Structure:
+Folder 1. Stream-Convert-Tweets contains scripts to run the Tweet streamer, tracking words on the Royal wedding, and script to convert to CSV from MongoDB.
+
+Folder 2. Analyse-Tweets contains scripts to visualise and analse the Tweet data with examples of output.
 
 For more information, please read the information files provided within each folder.
