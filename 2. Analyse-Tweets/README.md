@@ -1,7 +1,7 @@
 ## Python Files
 
 #### CreateTimeSeries.py
-Requires Pandas and Vincent
+<br>Requires Pandas and Vincent
 
 Using Vincent, a time-series area chart is created based on the CSV Tweet data's "created_at" column. As shown below, the output is not very visually effective due to the constant abundance of tweets.
 
