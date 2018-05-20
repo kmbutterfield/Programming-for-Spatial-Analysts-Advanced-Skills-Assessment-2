@@ -14,7 +14,7 @@ Tweets during the live Royal wedding streamed in consantaly at around 2,700 Twee
 
 Using Pandas in Jupyter Notebooks, you can create a table of the top 15 most common time zones from the Tweet data.
 
-![](https://github.com/kmbutterfield/Programming-for-Spatial-Analysts-Advanced-Skills-Assessment-2/blob/master/0.%20Images/TimeZoneOutput.png | with=50)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/kmbutterfield/Programming-for-Spatial-Analysts-Advanced-Skills-Assessment-2/blob/master/0.%20Images/TimeZoneOutput.png" width="200" height="400" />
 
 <img src="https://github.com/kmbutterfield/Programming-for-Spatial-Analysts-Advanced-Skills-Assessment-2/blob/master/0.%20Images/TimeZoneOutput.png" style="max-width:50%;"></a>
 
