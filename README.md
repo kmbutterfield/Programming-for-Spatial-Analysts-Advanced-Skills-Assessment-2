@@ -1,6 +1,8 @@
 ## Programming-for-Spatial-Analysts-Advanced-Skills-Assessment-2
 This repository contains assessment work for the module GEOG5790M. The purpose of this module was to create an independent project using a coding language on any topic of choice. Therefore, I decided to learn how to stream live-Tweets and the visualise the output to analyse them using, using Python. The Tweets scraped are on the topic of Prince Harry and Megan Markle's Royal wedding which took place Saturday the 19th of May 2018. 
 
+Please note all code has been writte in Python 3.
+
 ### Libraries Required:
 * Tweepy for streaming via Twitter's API
 * PyMongo to save the Tweets, and convert to CSV
