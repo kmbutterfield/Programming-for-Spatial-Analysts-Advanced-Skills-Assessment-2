@@ -9,7 +9,7 @@ Using <a href="http://vincent.readthedocs.io/en/latest/">Vincent</a>, a time-ser
 
 Tweets during the live Royal wedding streamed in consantaly at around 2,700 Tweets per minute. This is not surpring as it is such a large event. To improve this code, an alternative graphing method could be utilised with a larger y-axis miniumum value.
 
-If you are struggling to use Vincent, I can recommend reading <a href="hhttp://wrobstory.github.io/2013/04/pandas-vincent-timeseries.html">these</a> examples on creating your own time series chart. It helped me when I struggled to workout displaying data over minutes.
+If you are struggling to use Vincent, I can recommend reading <a href="http://wrobstory.github.io/2013/04/pandas-vincent-timeseries.html">these</a> examples on creating your own time series chart. It helped me when I struggled to workout displaying data over minutes.
 
 ### CommonTimeZones.py
 <b>Requires Pandas </b>
@@ -38,7 +38,7 @@ For help with using Folium, I can reccomend following <a href="https://www.kaggl
 
 Using Pandas and Maplotlib, a pie chart can be created displaying the percentage of what platform Tweeters used to Tweet in, such as Twitter for Andorid, iPhone, Twitter Web Client and other sources.
 
-<img src="https://github.com/kmbutterfield/Programming-for-Spatial-Analysts-Advanced-Skills-Assessment-2/blob/master/0.%20Images/TweetPlatformOutput.png">
+<img src="https://github.com/kmbutterfield/Programming-for-Spatial-Analysts-Advanced-Skills-Assessment-2/blob/master/0.%20Images/TweetPlatformOutput.png" width="300">
 
 As shown above, most Tweets came from users using an iPhone, which is not surprising considering how many people own an Apple phone. The second largest client used was Twitter for Android, whilst the least used was the Twitter Web Client. 'Other' sources were common too, as people sent Tweets via other websites, Facebook, and adverts.
 
